@@ -2,7 +2,7 @@
 
 
 Welcome to week 6. 
-Next week is multi layer neural nets. To prepare yourself for that, make sure you understand the following concepts:
+Next week is multi-layer neural nets. To prepare yourself for that, make sure you understand the following concepts:
 
 1. Preparing data: Importing, scaling, etc
 2. Training (fitting) a model, and the python code to do that
